@@ -1,7 +1,7 @@
 /* eslint-disable max-len */
 /* globals seAlert */
 
-import SvgCanvas from '@svgedit/svgcanvas'
+import SvgCanvas from './../../../packages/svgcanvas/svgcanvas'
 import topPanelHTML from './TopPanel.html'
 
 const { $qa, $id, $click, isValidUnit, getTypeMap, convertUnit } = SvgCanvas

@@ -18,7 +18,7 @@ import './dialogs/index.js'
 
 import { isMac } from '@svgedit/svgcanvas/common/browser'
 
-import SvgCanvas from '@svgedit/svgcanvas'
+import SvgCanvas from './../../packages/svgcanvas/svgcanvas'
 import ConfigObj from './ConfigObj.js'
 import EditorStartup from './EditorStartup.js'
 import LeftPanel from './panels/LeftPanel.js'

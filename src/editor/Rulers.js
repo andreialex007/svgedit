@@ -1,5 +1,5 @@
 import rulersTemplate from './templates/rulersTemplate.html'
-import SvgCanvas from '@svgedit/svgcanvas'
+import SvgCanvas from './../../packages/svgcanvas/svgcanvas'
 
 const { $id, getTypeMap } = SvgCanvas
 

@@ -1,5 +1,5 @@
 /* globals seAlert */
-import SvgCanvas from '@svgedit/svgcanvas'
+import SvgCanvas from './../../packages/svgcanvas/svgcanvas'
 import { isChrome } from '@svgedit/svgcanvas/common/browser.js'
 
 const { $id, $click, convertUnit, isValidUnit } = SvgCanvas

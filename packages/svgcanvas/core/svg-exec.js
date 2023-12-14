@@ -6,7 +6,7 @@
  */
 
 import { jsPDF as JsPDF } from 'jspdf'
-import 'svg2pdf.js'
+
 import html2canvas from 'html2canvas'
 import * as hstry from './history.js'
 import {

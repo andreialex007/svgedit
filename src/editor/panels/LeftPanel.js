@@ -1,4 +1,4 @@
-import SvgCanvas from '@svgedit/svgcanvas'
+import SvgCanvas from './../../../packages/svgcanvas/svgcanvas'
 import leftPanelHTML from './LeftPanel.html'
 
 const { $id, $qa, $click } = SvgCanvas

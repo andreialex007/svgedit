@@ -1,4 +1,4 @@
-import SvgCanvas from '@svgedit/svgcanvas'
+import SvgCanvas from './../../../packages/svgcanvas/svgcanvas'
 /* globals svgEditor */
 import imagePropertiesDialogHTML from './imagePropertiesDialog.html'
 
